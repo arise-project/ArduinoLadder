@@ -13,4 +13,6 @@ The code uses C# and Mono, GTK, and the Cairo framework. It should run on Window
 IT REQUIRES THE ARDUINO IDE (version 1.0.6 or later) to compile and upload programs.
 
 Thank you for your patience
-Costantino Pipero
+Yevhen Pyrohov
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/epirogov)
